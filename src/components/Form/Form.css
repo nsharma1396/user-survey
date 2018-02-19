@@ -1,0 +1,11 @@
+.formbox {
+	margin: 2.5%;
+ 	padding: 5%;
+  background-color: #eeeeee;
+  border: 1px solid black;
+  border-radius: 16px;
+}
+
+sup {
+	color: crimson;
+}
